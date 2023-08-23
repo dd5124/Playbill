@@ -1,8 +1,7 @@
 # Playbill
 
 ## Business Scenario
-This database is for the theatre industry. The data is from [Playbill](https://www.playbill.com/grosses) and [open source data sets](https://www.kaggle.com/jessemostipak/broadway-weekly-grosses?select=synopses.cs
-v).
+This database is for the theatre industry. The data is from [Playbill](https://www.playbill.com/grosses) and [open source data sets](https://www.kaggle.com/jessemostipak/broadway-weekly-grosses?select=synopses.csv).
 
 ## Typical users
 Analysts will a typical users. They would need to interact with the data to determine which shows are
