@@ -23,3 +23,6 @@ The data would be updated once a week for all of the theaters: daily seats sold 
 
 ## Where will performance matter?
 Performance would matter for the total gross and the percentage of seats filled. These will probably be the most important values for the analysts to examine and would be updated most frequently.
+
+## Entity Relationship Diagram 
+![alt text](https://github.com/dd5124/Playbill/blob/main/ERD.png?raw=true)
